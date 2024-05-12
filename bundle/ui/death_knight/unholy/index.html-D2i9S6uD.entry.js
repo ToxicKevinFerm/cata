@@ -1,0 +1,2 @@
+import"../../../index-C5Z0f6dO.chunk.js";/* empty css                           */import{S as s,P as e}from"../../../preset_utils-Cf2AMUmT.chunk.js";import{P as n,T as t}from"../../../detailed_results-Bq3U1zBE.chunk.js";import{U as i}from"../../../sim-BS54dsGT.chunk.js";const o=new s,r=new e(n.UnholyDeathKnight,o);o.raid.setPlayer(t.nextEventID(),0,r),new i(document.body,r);
+//# sourceMappingURL=index.html-D2i9S6uD.entry.js.map

@@ -1,0 +1,2 @@
+import{a7 as a,a8 as e}from"./preset_utils-Cf2AMUmT.chunk.js";import{aT as l,A as t,aU as s}from"./detailed_results-Bq3U1zBE.chunk.js";const u=()=>a({fieldName:"aura",values:[{value:l.NoPaladinAura,tooltip:"No Aura"},{actionId:t.fromSpellId(7294),value:l.RetributionAura}]}),i=()=>a({fieldName:"judgement",values:[{actionId:t.fromSpellId(53408),value:s.JudgementOfWisdom},{actionId:t.fromSpellId(20271),value:s.JudgementOfLight}]}),o=()=>e({fieldName:"useAvengingWrath",label:"Use Avenging Wrath"});export{u as A,i as J,o as U};
+//# sourceMappingURL=inputs-DKS8583v.chunk.js.map

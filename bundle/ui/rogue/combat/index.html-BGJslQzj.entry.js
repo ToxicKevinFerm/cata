@@ -1,0 +1,2 @@
+import"../../../index-C5Z0f6dO.chunk.js";/* empty css                           */import{S as s,P as t}from"../../../preset_utils-Cf2AMUmT.chunk.js";import{P as e,T as n}from"../../../detailed_results-Bq3U1zBE.chunk.js";import{C as o}from"../../../sim-BZGSZWMr.chunk.js";import"../../../inputs-C_5ef6q0.chunk.js";const i=new s,r=new t(e.CombatRogue,i);i.raid.setPlayer(n.nextEventID(),0,r),new o(document.body,r);
+//# sourceMappingURL=index.html-BGJslQzj.entry.js.map

@@ -1,0 +1,2 @@
+import"../../../index-C5Z0f6dO.chunk.js";/* empty css                           */import{S as s,P as e}from"../../../preset_utils-Cf2AMUmT.chunk.js";import{P as t,T as n}from"../../../detailed_results-Bq3U1zBE.chunk.js";import{F as r}from"../../../sim-Cc4dwTl8.chunk.js";const o=new s,i=new e(t.FrostMage,o);o.raid.setPlayer(n.nextEventID(),0,i),new r(document.body,i);
+//# sourceMappingURL=index.html-BNnGB9YA.entry.js.map
